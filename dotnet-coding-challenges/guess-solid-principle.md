@@ -24,7 +24,7 @@ public class Dog : Animal
 	public override int Legs { get => 4; }
 }
 
-public class Chicken : Vehicle
+public class Chicken : Animal
 {
 	public override int Legs { get => 2; }
 }
