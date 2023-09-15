@@ -1,4 +1,4 @@
-# Writing a the programm "Fizz Buzz" follow SOILD and DRY principles
+# Writing a programm "Fizz Buzz" follow SOILD and DRY principles
 
 Can you Write a program that prints the integers from 1 to 100 inclusive.<br>
 But:<br>
@@ -6,7 +6,7 @@ But:<br>
 - For multiples of five, print "Buzz" instead of the number<br>
 - For multiples of both three and five, print "Fizz Buzz" instead of the number<br>
 
-should be apply SOLID and DRY principles to the program
+should apply SOLID and DRY principles to the program
 <br>
 
 ================================================================
